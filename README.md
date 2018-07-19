@@ -1,2 +1,8 @@
 # project_python
-Small project to demonstrate self taught python skills, using coding knowledge and practices gained from CodeClan course
+Small projects to demonstrate python programming knowledge gained while solo studying. 
+
+
+Studying with:
+-Python books
+-Treehouse Account tutorials
+-prior Coding knowledge and practices gained from CodeClan course
